@@ -1,4 +1,4 @@
-# SQL-Server-Modernization-Security-Hardening-Lab
+# SQL-Server-Build-Security-Hardening-Lab
 
 Project Overview
 This project documents the end-to-end configuration of a SQL Server environment (dbsql01) joined to an Active Directory domain (oakmont.org). The lab focuses on transitioning from a local administrator setup to a Principle of Least Privilege model, simulating a professional migration for a "Next Gen" application.
